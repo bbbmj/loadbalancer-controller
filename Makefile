@@ -1,6 +1,6 @@
 # Copyright 2019 The Caicloud Authors.
 #
-# The old school Makefile, following are required targets. The Makefile is written
+# The ooooooooooooooold school Makefile, following are required targets. The Makefile is written
 # to allow building multiple binaries. You are free to add more targets or change
 # existing implementations, as long as the semantics are preserved.
 #
